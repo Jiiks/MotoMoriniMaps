@@ -59,6 +59,6 @@
 > Corsaro Avio 2009 map. Differs significantly from all other maps in the stationary range.
 
 ### Resources/Tools
-[https://www.von-der-salierburg.de/download/GuzziDiag/](GuzziDiag|IawReader/Writer)
-[https://www.tunerpro.net/downloadApp.htm](TunerPro)
-[https://www.ftdichip.cn/Drivers/CDM/](Drivers)
+[GuzziDiag|IawReader/Writer](https://www.von-der-salierburg.de/download/GuzziDiag/)
+[TunerPro](https://www.tunerpro.net/downloadApp.htm)
+[Drivers](https://www.ftdichip.cn/Drivers/CDM/)
